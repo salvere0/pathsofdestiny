@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\CameraControl\Assets\Scripts\SamuraiControl.cs">
+    <Files>
+      <File FileName="Assets\SelfDestroy.cs" Line="14" Column="29" />
+      <File FileName="Assets\Sword_collider.cs" Line="27" Column="2" />
+      <File FileName="..\CameraControl\Assets\Scripts\SamuraiControl.cs" Line="1" Column="1" />
+      <File FileName="..\CameraControl\Assets\Scripts\CameraControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
